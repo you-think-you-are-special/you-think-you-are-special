@@ -2,7 +2,7 @@
 
  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-think-you-are-special&count_bg=%2322272E&title_bg=%23347D39&icon=&icon_color=%23FFFFFF&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-think-you-are-special&count_bg=%2322272E&title_bg=%23347D39&icon=&icon_color=%23FFFFFF&title=Profile+views&edge_flat=false)](https://github.com/you-think-you-are-special)
 
 <a href="https://www.linkedin.com/in/sanderli/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=you-think-you-are-special&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&hide_title=true&hide=contribs,issues&hide_border=true&border_radius=5&bg_color=FFFFFF&icon_color=22272E&text_color=22272E&title_color=22272E&hide_rank=true"/>
